@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+## Thank you for the visit.
+
+![](http://profile-counter.glitch.me/hechaoqun/count.svg)
+
+Please give a Star if you like.
+
 <!--
 **hechaoqun/hechaoqun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
