@@ -1,4 +1,10 @@
-### Hi there 👋
+> **探索前端新技术 不断提升自我 不断拓展 未来可期 😄**
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=hechaoqun&show_icons=true&show_owner=true&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=hechaoqun&theme=github)
 
 ## Thank you for the visit.
 
