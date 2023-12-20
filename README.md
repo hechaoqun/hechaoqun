@@ -1,4 +1,4 @@
-> **探索前端新技术 不断提升自我 不断拓展 未来可期 😄**
+> **Explore new front-end technologies, continuously improve self, continuously expand web3 in the future 😄**
 
 ## My Github Status 🦸
 
